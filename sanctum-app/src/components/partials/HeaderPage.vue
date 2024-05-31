@@ -78,7 +78,7 @@ export default {
   top: 0;
   left: 0;
   width: 100%;
-  background-color:green;
+  background-color:rgb(192, 130, 242);
   z-index: 10;
   text-transform:uppercase;
   

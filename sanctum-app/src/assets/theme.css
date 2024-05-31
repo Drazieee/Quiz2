@@ -14,11 +14,11 @@
 :root {
   --global-color-white: #ffffff;
   --global-color-black: #222222;
-  --global-color-primary: #4f46e5;
-  --global-color-secondary: #6366f1;
-  --global-color-gray: #888888;
+  --global-color-primary: #8983ff;
+  --global-color-secondary: #f23fe9;
+  --global-color-gray: #feabab;
 
-  --global-color-background: #eef2ff;
+  --global-color-background: #e9a7ee;
 
   --global-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
@@ -110,7 +110,7 @@ body {
   padding: 14px 48px;
   transition: 0.2s;
   color: var(--global-color-white);
-  background-color: #e9a447;
+  background-color: #aef1c9;
 }
 
 .btn-primary:hover {
@@ -147,7 +147,7 @@ body {
   left: 0;
   top: 0;
   z-index: 9;
-  background: var(--global-color-primary);
+  background: #a2f5f0;
 }
 
 #header .wrapper {
@@ -175,7 +175,7 @@ body {
 }
 
 #header .header-con a:hover {
-  color: #c7d2fe;
+  color: #90ecfc;
 }
 
 #mobile-btn {
